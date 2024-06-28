@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muganwa Steven
-- 👀 I’m interested in React, NodeJs, Javascript, TypeScript and web3
-- 🌱 I’m currently learning web3 and everything about NFTs
+- 👀 I’m interested in React, NodeJs, & SpringBoot.
+- 🌱 I’m currently horning my skills to be ready for that special project.
 - 💞️ I’m looking to collaborate on ...cool Javascript/TypeScript projects, whatever you think is cool, just let me know.
 - 📫 How to reach me 1 - stevenmuganwa@gmail.com or https://twitter.com/muganwas
 
